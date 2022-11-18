@@ -2,6 +2,12 @@ body {
   margin: 0;
 }
 
+/* Sukhrob */
+
+.main-section_img img {
+  width: 80%;
+}
+
 /* Ozodbek Footer */
 .footer-section {
   background: whitesmoke;
