@@ -1,88 +1,47 @@
+body {
+  margin: 0;
+}
+
 /* Ozodbek Footer */
-.footer-section{
-    background: whitesmoke;
-    padding: 60px;
-}
-.footer{
-    display: flex;
-    gap: 200px;
+.footer-section {
+  background: whitesmoke;
+  padding: 60px;
 }
 
-.footer li{
-    list-style: none;
-    color: #797979;
+.footer li {
+  list-style: none;
+  color: #797979;
 }
 
-.footer-brand{
-    display: flex;
-    color: black !important;
+.footer-brand {
+  display: flex;
+  color: black !important;
 }
 
-.footer-brand img{
-    height: 30px;
+.footer-brand img {
+  height: 30px;
 }
 
-.pages{
-    display: flex;
-    gap: 10px;
+.pages {
+  display: flex;
+  gap: 10px;
 }
 
-.list2{
-    margin-top: 15px;
+.list4 p {
+  color: black;
 }
 
-.list2 p{
-    color: black;
+.pages {
+  height: 25px;
+  cursor: pointer;
 }
 
-.list3{
-    margin-top: 15px;
+.ending {
+  text-align: center;
 }
 
-.list3 p{
-    color: black;
-}
-
-.footer-info{
-    display: flex;
-    gap: 200px;
-}
-
-.list4{
-    margin-top: 15px;
-}
-
-.list4 p{
-    color: black;
-}
-
-.email input{
-    height: 30px;
-    border-radius: 10px;
-    border-color: #797979;
-}
-
-.email button{
-    height: 36px;
-    background: orangered;
-    border-radius: 10px;
-    border-style: none;
-    color: white;
-}
-
-.pages{
-    height: 25px;
-    cursor: pointer;
-}
-
-.ending{
-    color: #797979;
-    margin-left: 190px;
-}
-
-.ending p{
-    color: black;
-    margin-left: 340px;
+.ending p {
+  color: black;
 }
 
 /* /Ozodbek Footer */
