@@ -20,6 +20,13 @@ body {
 }
 
 /* Ozodbek Footer */
+.footer a {
+    display: block;
+    margin: 10px 0;
+    text-decoration: none;
+    color: #4e4a4a;
+}
+
 .footer-section {
   background: whitesmoke;
   padding: 60px;
@@ -44,13 +51,12 @@ body {
   gap: 10px;
 }
 
-.list4 p {
-  color: black;
-}
-
 .pages {
   height: 25px;
-  cursor: pointer;
+}
+
+.email{
+    display: flex;
 }
 
 .ending {
