@@ -131,6 +131,9 @@ body {
 }
 
 /* /Ozodbek Footer */
+
+
+/* Abdulbori */
 .Abdulbori-text h6 {
     color: rgb(255, 64, 0);
     padding: 20px 0px;
@@ -158,8 +161,7 @@ body {
     padding-top: 20px;
 }
 
-.btn {
-    background-color:rgb(231, 30, 30) ;
+.btn-primary {
     border: none;
     justify-content: center ;
 }
