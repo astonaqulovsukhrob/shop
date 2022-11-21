@@ -1,5 +1,12 @@
+body {
+  margin: 0%;
+}
 
 .testimonial {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
     padding: 100px 0;
   }
   
@@ -11,12 +18,16 @@
   .testimonial-info h5 {
   color: rgb(255, 107, 8);
   }
-  
-  
-  
-  .testimonial_card {
+  .slider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+  }
+  .testimonial_card-2 {
     text-align: center;
-    border: 2px solid #d1d0d0;
+    border: 2px solid #f0f0f0;
     border-radius: 5px;
     /* margin-left: 10px; */
     width: 70% !important;
@@ -45,7 +56,7 @@
   }
   
   
-  .testimonial_card img {
+  .testimonial_card-2 img {
     width: 40%;
     padding-bottom: 20px;
     margin: auto;
@@ -57,6 +68,109 @@
     /* margin: auto; */
   }
   
-  .testimonial_card h6 {
+  .testimonial_card-2 h6 {
     color: rgb(255, 107, 8);
   }
+
+body {
+  margin: 0;
+}
+
+/* Sukhrob */
+.content {
+  padding: 100px 0;
+}
+
+.main-section_info {
+  width: 50%;
+}
+
+.main-section_img {
+  max-width: 700px;
+}
+
+.main-section_img img {
+  width: 100%;
+}
+
+/* Ozodbek Footer */
+.footer-section {
+  background: whitesmoke;
+  padding: 60px;
+}
+
+.footer li {
+  list-style: none;
+  color: #797979;
+}
+
+.footer-brand {
+  display: flex;
+  color: black !important;
+}
+
+.footer-brand img {
+  height: 30px;
+}
+
+.pages {
+  display: flex;
+  gap: 10px;
+}
+
+.list4 p {
+  color: black;
+}
+
+.pages {
+  height: 25px;
+  cursor: pointer;
+}
+
+.ending {
+  text-align: center;
+}
+
+.ending p {
+  color: black;
+}
+
+/* /Ozodbek Footer */
+.Abdulbori-text h6 {
+    color: rgb(255, 64, 0);
+    padding: 20px 0px;
+}
+
+.Abubakir-info {
+    display: flex;
+    gap: 50px;
+}
+
+.text {
+    color: rgb(255, 0, 0);
+}
+
+.icon {
+   position: absolute;
+   right: 100px;
+   display: flex;
+   font-size: 30px;
+   gap: 10px;
+}
+.card-text {
+    display: flex;
+    gap: 50px;
+    padding-top: 20px;
+}
+
+.btn {
+    background-color:rgb(231, 30, 30) ;
+    border: none;
+    justify-content: center ;
+}
+
+
+    
+
+
+
