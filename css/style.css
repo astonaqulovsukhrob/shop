@@ -1,5 +1,51 @@
+
+
+
+
+
+
+
+
+
+/* asilbek */
+
+.section{
+    margin-top: 100px;
+    padding: 40px;
+}
+.asilbek-div{
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    text-align: center;
+}
+.asilbek-icons{
+    display: flex;
+    justify-content: space-between;
+}
+.asil{
+    margin-top: 40px;
+}
+.asil-div{
+    margin-top: 100px;
+}
 body {
-  margin: 0;
+    margin: 0;
+}
+.asil-img{
+    display: flex;
+    justify-content: space-between;
+}
+.img {
+    margin-top: 90px;
+}
+.email{
+    margin-top: 90px;
+}
+.asilbek img{
+    /* width: 600px; */
+
 }
 
 /* Sukhrob */
