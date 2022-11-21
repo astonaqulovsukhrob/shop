@@ -1,0 +1,31 @@
+
+
+
+
+
+
+
+
+
+
+
+.section{
+    margin-top: 100px;
+}
+.asilbek-div{
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    text-align: center;
+}
+.asilbek-icons{
+    display: flex;
+    justify-content: space-between;
+}
+.asil{
+    margin-top: 40px;
+}
+.asil-div{
+    margin-top: 100px;
+}
