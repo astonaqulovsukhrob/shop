@@ -82,6 +82,41 @@ body {
   width: 100%;
 }
 
+/* Abdulboriy */
+.Abdulbori-text h6 {
+  color: rgb(255, 64, 0);
+  padding: 20px 0px;
+}
+
+.Abubakir-info {
+  display: flex;
+  gap: 50px;
+}
+
+.text {
+  color: rgb(255, 0, 0);
+}
+
+.icon {
+ position: absolute;
+ right: 100px;
+ display: flex;
+ font-size: 30px;
+ gap: 10px;
+}
+.card-text {
+  display: flex;
+  gap: 50px;
+  padding-top: 20px;
+}
+
+.btn {
+  background-color:rgb(231, 30, 30) ;
+  border: none;
+  justify-content: center ;
+}
+/* /Abdulboriy */
+
 /* Ozodbek Footer */
 .footer a {
     display: block;
