@@ -1,0 +1,153 @@
+
+
+
+
+
+
+
+
+
+/* asilbek */
+
+.section{
+    margin-top: 100px;
+    padding: 40px;
+}
+.asilbek-div{
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    text-align: center;
+}
+.asilbek-icons{
+    display: flex;
+    justify-content: space-between;
+}
+.asil{
+    margin-top: 40px;
+}
+.asil-div{
+    margin-top: 100px;
+}
+body {
+    margin: 0;
+}
+.asil-img{
+    display: flex;
+    justify-content: space-between;
+}
+.img {
+    margin-top: 90px;
+}
+.email{
+    margin-top: 90px;
+}
+.asilbek img{
+    /* width: 600px; */
+
+}
+
+/* Sukhrob */
+.content {
+  padding: 100px 0;
+}
+
+.main-section_info {
+  width: 50%;
+}
+
+.main-section_img {
+  max-width: 700px;
+}
+
+.main-section_img img {
+  width: 100%;
+}
+
+/* Ozodbek Footer */
+.footer a {
+    display: block;
+    margin: 10px 0;
+    text-decoration: none;
+    color: #4e4a4a;
+}
+
+.footer-section {
+  background: whitesmoke;
+  padding: 60px;
+}
+
+.footer li {
+  list-style: none;
+  color: #797979;
+}
+
+.footer-brand {
+  display: flex;
+  color: black !important;
+}
+
+.footer-brand img {
+  height: 30px;
+}
+
+.pages {
+  display: flex;
+  gap: 10px;
+}
+
+.pages {
+  height: 25px;
+}
+
+.email{
+    display: flex;
+}
+
+.ending {
+  text-align: center;
+}
+
+.ending p {
+  color: black;
+}
+
+/* /Ozodbek Footer */
+.Abdulbori-text h6 {
+    color: rgb(255, 64, 0);
+    padding: 20px 0px;
+}
+
+.Abubakir-info {
+    display: flex;
+    gap: 50px;
+}
+
+.text {
+    color: rgb(255, 0, 0);
+}
+
+.icon {
+   position: absolute;
+   right: 100px;
+   display: flex;
+   font-size: 30px;
+   gap: 10px;
+}
+.card-text {
+    display: flex;
+    gap: 50px;
+    padding-top: 20px;
+}
+
+.btn {
+    background-color:rgb(231, 30, 30) ;
+    border: none;
+    justify-content: center ;
+}
+
+
+    
+
+
