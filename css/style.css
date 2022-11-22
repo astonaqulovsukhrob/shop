@@ -1,4 +1,6 @@
 
+
+
 .shoes{
     background-size: cover;
     height: 500px;
@@ -9,7 +11,7 @@
 
 .wrapper{
     width: 700px;
-    background-color: rgba(238, 85, 20, 0.1);
+    background-color: white;
     height: 100px;
     margin-left: 120px;
     border-bottom-left-radius: 10px;
